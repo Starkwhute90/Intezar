@@ -1,0 +1,10 @@
+{
+    "name": "Heartfelt Clock",
+    "short_name": "Clock",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "description": "A heartfelt clock that tracks time and displays love quotes.",
+    "icons": []
+}
